@@ -1,0 +1,29 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "简历&amp;面试总结",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuctTr/interview.git"
+  },
+  "keywords": [
+    "interview",
+    "javascript",
+    "web"
+  ],
+  "author": "jucttr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuctTr/interview/issues"
+  },
+  "homepage": "https://github.com/JuctTr/interview#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}

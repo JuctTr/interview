@@ -1,0 +1,12 @@
+dist/
+release.sh
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.eslintcache
+
+npm-debug.log*
+npm-error.log*
