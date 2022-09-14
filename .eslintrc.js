@@ -12,13 +12,11 @@ module.exports = {
         'prettier',
     ],
     // parser: '@typescript-eslint/parser',
-    // parserOptions: {
-    //     ecmaFeatures: {
-    //         jsx: true,
-    //     },
-    //     ecmaVersion: 'latest',
-    //     sourceType: 'module',
-    // },
+    parserOptions: {
+        ecmaVersion: 2020,
+        sourceType: 'module',
+        impliedStrict: true,
+    },
     // plugins: ['react', '@typescript-eslint'],
     // rules: {
     //     '@typescript-eslint/no-var-requires': 0, // typescript-eslint 默认不允许使用require，不利于静态编译
